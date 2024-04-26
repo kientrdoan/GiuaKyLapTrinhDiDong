@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/samsung"
+        android:id="@+id/ivHinh"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="ten sp"
+        android:textSize="20sp"
+        android:layout_weight="1"
+        android:textStyle="bold|italic"
+        android:gravity="center_vertical"
+        android:id="@+id/tvTenSP"/>
+
+    <Button
+        android:focusable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text= "Chi tiet"
+        android:id="@+id/btnChiTiet"/>
+
+
+</LinearLayout>

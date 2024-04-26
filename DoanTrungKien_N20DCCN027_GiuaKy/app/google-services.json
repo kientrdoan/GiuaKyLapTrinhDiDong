@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246329883317",
+    "project_id": "login-register-52e53",
+    "storage_bucket": "login-register-52e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246329883317:android:7535d2b1d08ff0256c1cfc",
+        "android_client_info": {
+          "package_name": "com.example.giuaky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlYJU_SzlorC3N-lnEfoPSlItIFJIqOUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

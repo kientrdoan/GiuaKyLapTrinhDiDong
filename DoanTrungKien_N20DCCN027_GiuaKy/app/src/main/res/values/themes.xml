@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GiuaKy" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+<!--        <item name="android:fontFamily">@font/calistoga</item>-->
+<!--        <item name="colorPrimary">@color/indigo</item>-->
+<!--        <item name="colorOnPrimary">@color/white</item>-->
+    </style>
+
+<!--    <style name="Base.Theme.NoTitle" parent="Theme.Material3.DayNight.NoActionBar">-->
+<!--        &lt;!&ndash; Customize your light theme here. &ndash;&gt;-->
+<!--        &lt;!&ndash;        <item name="android:fontFamily">@font/calistoga</item>&ndash;&gt;-->
+<!--        &lt;!&ndash;        <item name="colorPrimary">@color/indigo</item>&ndash;&gt;-->
+<!--        &lt;!&ndash;        <item name="colorOnPrimary">@color/white</item>&ndash;&gt;-->
+<!--    </style>-->
+
+    <style name="Theme.GiuaKy" parent="Base.Theme.GiuaKy" />
+</resources>
